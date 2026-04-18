@@ -5,7 +5,7 @@ This repository contains an SQL-based project focused on relational database des
 ---
 
 ## 🎯 Project Overview
-The projects within this repository focus on solving business-logic problems through structured data. Key areas include:
+The project within this repository focus on solving business-logic problems through structured data. Key areas include:
 * **Database Schema Design:** Creating normalized tables (1NF, 2NF, 3NF) to reduce data redundancy.
 * **Complex Data Extraction:** Using advanced joins, subqueries, and window functions.
 * **Data Cleaning with T-SQL:** Standardizing records and handling null values directly within the database engine.
